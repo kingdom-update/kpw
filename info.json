@@ -1,11 +1,11 @@
 {
   "name": "Kingdom Prayer Wall",
   "slug": "kingdom-prayer-wall",
-  "version": "3.0.2",
-  "download_url": "https://github.com/kingdom-update/kpw/releases/download/3.0.2/kingdom-prayer-wall-3.0.2.zip",
+  "version": "3.2.0",
+  "download_url": "https://github.com/kingdom-update/kpw/releases/download/3.2/kingdom-prayer-wall-3.2.0.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "Prayer Management System with a modern prayer wall, frontend submission modal, admin moderation tools, email settings, and performance improvements.",
-    "changelog": "<h4>3.0.2</h4><ul><li>Fixed display width on split screen browsers and narrower browser widths</li></ul>"
+    "changelog": "<h4>3.2.0</h4><ul><li>Added multilingual translation support with configurable language options.</li><li>Added a customizable color setting for all Prayer Wall buttons.</li></ul>"
   }
 }
